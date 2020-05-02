@@ -1,2 +1,6 @@
+v 1.1 02.05.2020
+Fixed file vm-tooshort
+Added formats alaw, g722, gsm, sln16, ulaw
+
 v 1.0 24.06.2017
 * Initial release
